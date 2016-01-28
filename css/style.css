@@ -1,0 +1,65 @@
+font-family: 'Play', sans-serif;
+
+#toprl a {
+    margin-left: 20px;
+}
+
+#toprl a:link {
+    color: darkgray
+}
+
+#avatar img {
+    margin-left: 1800px
+}
+
+img.resize{
+    width:540px; /* you can use % */
+    height: auto;
+}
+
+#logo {
+    height: 105px;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#iskalnik {
+    margin-left: auto;
+    margin-right: auto;
+    width: 404px;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 400px;
+}
+
+#buttons {
+    margin-left: auto;
+    margin-right: auto;
+    width: 106px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#noga {
+    background-color: #F5F5F5;
+    border-radius: 2px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+}
+
+#noga-center {
+    width: auto;
+    text-align: center;
+    word-spacing: 15px;
+    display: inline-block;
+}
+
+#noga-center a:link {
+    color: darkgray
+}
